@@ -1,0 +1,8 @@
+﻿  FNN.cpp
+c:\users\me\source\repos\fnn\fnn\fnn.cpp(19): warning C4005: 'RAND_MAX': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(344): note: see previous definition of 'RAND_MAX'
+c:\users\me\source\repos\fnn\fnn\fnn.cpp(55): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\me\source\repos\fnn\fnn\fnn.cpp(135): warning C4244: '+=': conversion from 'long double' to 'int', possible loss of data
+c:\users\me\source\repos\fnn\fnn\fnn.cpp(226): warning C4715: 'parseWeightsAndBiases': not all control paths return a value
+c:\users\me\source\repos\fnn\fnn\fnn.cpp(294): warning C4715: 'FNNTest': not all control paths return a value
+  FNN.vcxproj -> C:\Users\Me\source\repos\FNN\Debug\FNN.exe
